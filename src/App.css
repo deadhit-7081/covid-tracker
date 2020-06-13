@@ -1,0 +1,125 @@
+.nav1{
+  font-size: 180%;
+}
+.link1{
+  color: #ffffff;
+}
+
+.image{
+  width: 100%;
+  height: 100%;
+}
+
+.jumbo{
+  font-size: 300%;
+}
+
+.col1{
+  background-color: yellow;
+  color: darkblue;
+  font-size: 120%;
+  text-align: center;
+  margin-top: 2%;
+  margin-right: 5%;
+  margin-left: 3%;
+}
+
+.col2{
+  background-color: red;
+  color: #ffffff;
+  font-size: 120%;
+  text-align: center;
+  margin-top: 2%;
+  margin-right: 5%;
+  margin-left: 3%;
+}
+
+.col3{
+  background-color: green;
+  color: #ffffff;
+  font-size: 120%;
+  text-align: center;
+  margin-top: 2%;
+  margin-right: 5%;
+  margin-left: 3%;
+}
+
+.col4{
+  background-color: darkgrey;
+  color: red;
+  font-size: 120%;
+  text-align: center;
+  margin-top: 2%;
+  margin-right: 5%;
+  margin-left: 3%;
+}
+
+.col5{
+  background-color: lightsalmon;
+  margin-top: 2%;
+  color :whitesmoke;
+  font-size: 120%;
+  margin-right: 5%;
+  margin-left: 3%;
+  text-align: center;
+}
+
+.col6{
+  background-color: blueviolet;
+  margin-top: 2%;
+  color :rgb(243, 227, 6);
+  font-size: 120%;
+  margin-right: 5%;
+  margin-left: 3%;
+  text-align: center;
+}
+
+.popuphead{
+  color: rebeccapurple
+}
+
+.footer{
+  background-color: rosybrown;
+}
+
+.font{
+  font-size: 130%;
+  font-family: cursive;
+  margin-top: 2%;
+}
+
+.font1{
+  margin-right: 8%;
+}
+
+.font2{
+  color: blueviolet;
+  font-size: 130%;
+  font-family: cursive;
+  margin-top: 2%;
+}
+
+.font3{
+  font-size: 130%;
+  font-family: cursive;
+  margin-top: 2%;
+}
+
+.sign{
+  margin-left: 35%;
+  font-size: 100%;
+}
+
+.note1
+{
+  color: darkgreen;
+  font-size: 120%;
+  font-family: cursive;
+}
+
+.note2
+{
+  color:red;
+  font-size: 110%;
+  font-family: cursive;
+}
